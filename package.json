@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "json:server": "json-server --watch db.json",
-    "dev": "nodemon server.js" 
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "Trevor Kirpaul",
